@@ -1,1 +1,4 @@
-console.log("HH");
+{
+    "input" = GCE(X,Y)
+    "input" = LCM(X,Y)
+}

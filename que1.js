@@ -1,3 +1,6 @@
 {
-    "input" = x++ 
+    
+"input" = x++ 
+"input" = x--
+
 }
